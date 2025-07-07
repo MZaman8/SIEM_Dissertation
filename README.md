@@ -1,4 +1,4 @@
-# SIEM_Dissertation: Personal Security Information and Event Management Project
+# SIEM Dissertation: Personal Security Information and Event Management Project
 This project is the outcome of my final year dissertation to demonstrate hands-on SIEM implementation and detection engineering using open-source tools. It involved deploying a Wazuh-based SIEM solution to monitor a Windows 11 host and virtual machine, with a SIEM server hosted on Ubuntu.
 <br /> 
 <br /> Architecture- Describes the machines and how they communicate
