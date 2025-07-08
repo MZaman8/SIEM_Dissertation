@@ -22,6 +22,7 @@ This project is the outcome of my final year dissertation to demonstrate hands-o
 - [Honeytoken access](https://github.com/MZaman8/SIEM_Dissertation/blob/main/3-%20Event%20Analysis/Usecase%201-%20HoneyToken%20Access%20Analysis.pdf)
 - [Repeated local logon failures (brute force access attempt)](https://github.com/MZaman8/SIEM_Dissertation/blob/main/3-%20Event%20Analysis/Usecase%202-%20Repeated%20Failed%20Physical%20Logins%20Analysis.pdf)
 - [PowerShell execution monitoring](https://github.com/MZaman8/SIEM_Dissertation/blob/main/3-%20Event%20Analysis/Usecase%203-%20Powershell%20Execution%20Analysis.pdf)
+- [Remote logon activity](https://github.com/MZaman8/SIEM_Dissertation/blob/main/3-%20Event%20Analysis/Usecase%204%20and%205-%20Remote%20Login%20Events%20Analysis.pdf)
 - [Blocked application usage (via firewall rule)](https://github.com/MZaman8/SIEM_Dissertation/blob/main/3-%20Event%20Analysis/Usecase%206-%20Blocked%20Chrome%20Use%20Analysis.pdf)
 - [Forbidden website access (via Suricata)](https://github.com/MZaman8/SIEM_Dissertation/blob/main/3-%20Event%20Analysis/Usecase%207-%20Facebook%20Access%20Attempt%20Analysis.pdf)
 
