@@ -3,9 +3,9 @@ This project is the outcome of my final year dissertation to demonstrate hands-o
 <br /><br />Tools used: Wazuh, Sysmon, Suricata, Oracle Virtualbox, OpenSSH
 ## [Architecture](https://github.com/MZaman8/SIEM_Dissertation/tree/main/1-%20Architecture)
 **Outlines the system design** 
+- [Ingestion pipeline](https://github.com/MZaman8/SIEM_Dissertation/blob/main/1-%20Architecture/Log%20Ingestion%20Pipeline.pdf)
 - [Monitored endpoints](https://github.com/MZaman8/SIEM_Dissertation/blob/main/1-%20Architecture/Architecture.pdf)
 - [Network configuration](https://github.com/MZaman8/SIEM_Dissertation/blob/main/1-%20Architecture/Architecture.pdf)
-- [Ingestion pipeline](https://github.com/MZaman8/SIEM_Dissertation/blob/main/1-%20Architecture/Log%20Ingestion%20Pipeline.pdf)
 
 ## [Usecase Implementation](https://github.com/MZaman8/SIEM_Dissertation/tree/main/2-%20Usecase%20Implementation)
 **Describes rule creation and validation**
