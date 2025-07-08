@@ -24,6 +24,6 @@ This project is the outcome of my final year dissertation to demonstrate hands-o
 - Forbidden website access (via Suricata)
 
 ## Dashboards
-**Dashboards used for easy user usage**
+**Dashboards for easy user usage**
 - Usecase trigger dashboard
 - Logon ID correlation dashboard
