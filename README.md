@@ -45,3 +45,4 @@ This project is the outcome of my final year dissertation to demonstrate hands-o
  
 **Troubleshooting**
 - Virtual Machines (particularly involving network adapters)
+- Wazuh rules (including XML syntax and correct field application)
